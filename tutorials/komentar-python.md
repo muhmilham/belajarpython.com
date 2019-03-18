@@ -23,6 +23,13 @@ Dibawah ini adalah contoh penggunaan komentar pada Python
 #satu
 #baris
 
+"""
+Komentar Kutip dua 3 kali
+untuk menuliskan komentar
+lebih dari satu baris kalimat 
+dengan ditutup kutip dua 3 kali kembali
+"""
+
 print("Hello World") #ini juga komentar
 
 #print("Welcome")
